@@ -341,13 +341,6 @@ section {
   color: #2563eb;
 }
 
-.network-badge {
-  margin-top: 1.5rem;
-  background: #eef2ff;
-  padding: 0.8rem 1.2rem;
-  border-radius: 1rem;
-}
-
 /* contact */
 .contact-section {
   border-bottom: none;
